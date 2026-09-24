@@ -1,0 +1,5 @@
+condition,psnr_before_db,psnr_after_db,change_db
+dark,17.8,50.76,32.95
+bright,19.74,56.09,36.34
+low_contrast,18.65,33.04,14.39
+blurred,22.78,24.1,1.32
